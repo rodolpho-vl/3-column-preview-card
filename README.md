@@ -27,12 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](./design/desktop-display.png)
+![Mobile](./design/mobile-display.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobile-first-using-html-and-css-bE1Q4pmvz](https://www.frontendmentor.io/solutions/mobile-first-using-html-and-css-bE1Q4pmvz)
+- Live Site URL: [https://3-column-preview-card-a97a17.netlify.app](https://3-column-preview-card-a97a17.netlify.app)
 
 ## My process
 
